@@ -30,46 +30,72 @@ li {
 }
 
 .biopage1 {
-    border: 1px solid red;
+  
     width: 100%;
-    height: 300px;
     display: flex;
 
 }
 
+.biopicimage {
+    display: flex;
+    justify-content: flex-end;
+  
+    width: 50%;
+    height: 100%;
+}
+
 .alittleaboutme {
-    border: 1px solid blue;
+   
     width: 50%;
     height: 100%;
     background-color: #FFECD0;
+    display: flex;
+    justify-content: center;
+
+}
+
+.alittleaboutme1 {
+    display: flex;
+    justify-content: center;
+    
+    width: 90%;
+    height: 350px;
+    background-color: #FFECD0;
+
+  
 }
 
 .biopic {
-    border: 1px solid green;
+    display: flex;
+    justify-content: center;
+
     width: 50%;
     height: 100%;
 }
 
 .skills {
     padding: 20px;
-    border: 1px solid red;
+    
     display: flex;
     justify-content: center;
 }
 
 .softpictures {
     display: flex;
-    border: 1px solid red;
+    
     justify-content: space-evenly;
 }
 
 .softimages {
-    border: 1px solid green;
+
     
 
 }
 
+.userresearch {
+    height: 350px;
 
+}
 
 
 
